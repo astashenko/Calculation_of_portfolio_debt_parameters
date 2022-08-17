@@ -1,0 +1,14 @@
+/.ipynb_checkpoints/
+/SUMMARY/
+/итоговые файлы/
+/объяснения/
+/Потом разобрать/
+/Файлы для тестирования/
+
+*.xlsx
+
+INN_leading_0.ipynb
+*.sql
+params.ipynb
+
+# git config --global http.sslVerify false
